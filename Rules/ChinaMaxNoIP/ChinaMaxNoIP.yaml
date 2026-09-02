@@ -5,7 +5,6 @@ domain_suffix_set:
   - ms
   - anquan
   - citic
-  - icbc
   - shouji
   - sina
   - sohu
@@ -46,6 +45,7 @@ domain_suffix_set:
   - xn--xhq521b
   - xn--zfr164b
   - yun
+  - icbc
 domain_keyword_set:
   - .tmall.com
   - alicdn
