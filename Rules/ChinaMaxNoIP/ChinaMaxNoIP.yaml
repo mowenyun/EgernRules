@@ -1,14 +1,14 @@
 domain_suffix_set:
+  - alibaba
+  - tmall
   - cn
   - ms
-  - alibaba
   - anquan
   - citic
   - icbc
   - shouji
   - sina
   - sohu
-  - tmall
   - unicom
   - wang
   - xihuan
@@ -56,7 +56,7 @@ domain_keyword_set:
   - officecdn
   - taobao
   - bilibili
-  - qiyi
   - hnagroup
   - stripe
   - weibo
+  - qiyi
