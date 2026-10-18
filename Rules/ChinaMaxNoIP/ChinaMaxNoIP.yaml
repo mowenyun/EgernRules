@@ -1,14 +1,14 @@
 domain_suffix_set:
-  - alibaba
-  - tmall
   - cn
   - ms
+  - alibaba
   - anquan
   - citic
   - icbc
   - shouji
   - sina
   - sohu
+  - tmall
   - unicom
   - wang
   - xihuan
