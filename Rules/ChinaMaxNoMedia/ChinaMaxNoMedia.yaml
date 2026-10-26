@@ -1,15 +1,14 @@
 no_resolve: true
 domain_suffix_set:
+  - alibaba
+  - tmall
   - cn
   - ms
-  - alibaba
   - anquan
   - citic
-  - icbc
   - shouji
   - sina
   - sohu
-  - tmall
   - unicom
   - wang
   - xihuan
@@ -47,6 +46,7 @@ domain_suffix_set:
   - xn--xhq521b
   - xn--zfr164b
   - yun
+  - icbc
 domain_keyword_set:
   - .tmall.com
   - alicdn
