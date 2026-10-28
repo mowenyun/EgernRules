@@ -31,6 +31,7 @@ domain_set:
   - crl.versign.net
   - databank.worldbank.org
   - datarouter.apps.netherrealm.com
+  - dc.services.visualstudio.com
   - deutschewelle.h-cdn.com
   - dl.begellhouse.com
   - ea.tt.omtrdc.net
@@ -99,6 +100,7 @@ domain_set:
   - rsshub.umzzz.com
   - rsshub.woodland.cafe
   - rsshub2.asailor.org
+  - rt.services.visualstudio.com
   - standchartbank.sc.omtrdc.net
   - standchartbank.tt.omtrdc.net
   - straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
@@ -877,6 +879,7 @@ domain_suffix_set:
   - addison.ac.uk
   - addthiscdn.com
   - addtoany.com
+  - addtodropbox.com
   - addyoutube.com
   - adelaidenow.com.au
   - adeptt.ac.uk
@@ -6867,6 +6870,7 @@ domain_suffix_set:
   - dasaob.online
   - dasg.ac.uk
   - dash-1.ac.uk
+  - dash.ai
   - dashly.app
   - dashly.help
   - dashly.io
@@ -7670,6 +7674,7 @@ domain_suffix_set:
   - docs.com
   - docs.rs
   - docs.rw
+  - docsend.com
   - doctor-videos.com
   - documentforce.com
   - docusend.ac.uk
@@ -7853,12 +7858,15 @@ domain_suffix_set:
   - dropboxapi.com
   - dropboxbusiness.com
   - dropboxcaptcha.com
+  - dropboxexperiment.com
   - dropboxforum.com
   - dropboxforums.com
   - dropboxinsiders.com
+  - dropboxlegal.com
   - dropboxmail.com
   - dropboxpartners.com
   - dropboxstatic.com
+  - dropboxteam.com
   - dropboxusercontent.com
   - drpc.org
   - drunk6.com
@@ -11806,9 +11814,11 @@ domain_suffix_set:
   - heise360181.buzz
   - heise360182.buzz
   - helf.ac.uk
+  - hellofax.com
   - hellofuture.ac.uk
   - hellokittybeats.com
   - hellomoto.com
+  - hellosign.com
   - hellosmartbook.com
   - hellporno.com
   - hellven.net
@@ -15057,6 +15067,7 @@ domain_suffix_set:
   - library.lol
   - librarylovefest.com
   - libraryofthumbs.com
+  - librewolf.dev
   - librewolf.net
   - libsolutions.app
   - libsolutions.domains
